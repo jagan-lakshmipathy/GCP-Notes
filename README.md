@@ -6,3 +6,5 @@
 	2. Working demos based on the popular book “Python Machine Learning, 2nd Ed“  By Raschka, Sebastian & Vahid Mirjalili .
 	3. Fish , a Linux shell with command auto completion & auto suggestion features
 	4. Visual studio code IDE for development
+
+2. DATAPROC-SPARK: This cluster comes with Hadoop, Spark, etc. 
