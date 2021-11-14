@@ -26,6 +26,7 @@ Now, do the following steps to check out the dataproc cluster:
 	- Browse to the storage you created above
 	- I don't have to do any chages elsewhere
 8. I dont't have to change anything under Manage Security
+9. Press Create
 
 Wait for cluster to come up. It took me around 5 mintues for the cluster to come up. 
 
